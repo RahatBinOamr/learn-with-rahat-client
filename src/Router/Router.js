@@ -15,6 +15,7 @@ import CreatePost from "../Blog/CreateBlogPost/CreatePost";
 import CreateFeaturePost from "../Component/FeaturedCourses/CreateFeaturePost";
 import CreateRecentPost from "../Component/RecentCourses/CreateRecentCourse";
 import ContactCollection from "../Component/Contact/ContactCollection";
+import RecentCoursesDetails from "../Component/RecentCourses/RecenCoursesDetails/RecentCoursesDetails";
 
 const router = createBrowserRouter([
   {
@@ -32,6 +33,14 @@ const router = createBrowserRouter([
         element: (
           <PrivateRoute>
             <FeaturedCoursesDetails />
+          </PrivateRoute>
+        ),
+      },
+      {
+        path: "/RecentCoursesDetails/:id",
+        element: (
+          <PrivateRoute>
+            <RecentCoursesDetails />
           </PrivateRoute>
         ),
       },

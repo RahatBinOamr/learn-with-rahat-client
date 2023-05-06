@@ -35,7 +35,7 @@ const RecentCoursesCarousel = ({ data }) => {
       {" "}
       <Slider {...settings}>
         {data?.map((item) => (
-          <Link to={`/FeaturedCoursesDetails/${item._id}`}>
+          <Link to={`/RecentCoursesDetails/${item._id}`}>
             <div key={item.id} className="px-2">
               <div className="bg-white rounded-lg overflow-hidden shadow-md">
                 <img className="w-full" src={item.img} alt={item.title} />
