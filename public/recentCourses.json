@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "The Complete business plan courses (includes 50 Temple)",
+    "img": "https://themezhub.net/learnup-demo-2/learnup/assets/img/course-2.jpg",
+    "duration_h": "3",
+    "duration_m": "10",
+    "view": "3000",
+    "prev_Price": "250.00",
+    "price": "150.56",
+    "tutor": "Web Designer in Canada",
+    "tutor_name": "Shaurya Preet",
+    "tutor_avatar": "https://themezhub.net/learnup-demo-2/learnup/assets/img/user-3.jpg"
+  },
+  {
+    "id": 2,
+    "title": "An Intern MBA in 1 Course (includes 50 Temple)",
+    "img": "https://themezhub.net/learnup-demo-2/learnup/assets/img/course-3.jpg",
+    "duration_h": "5",
+    "duration_m": "40",
+    "view": "30009",
+    "prev_Price": "90.00",
+    "price": "69.02",
+    "tutor": "php Designer in Canada",
+    "tutor_name": "Savitha Tripathi",
+    "tutor_avatar": "https://themezhub.net/learnup-demo-2/learnup/assets/img/user-2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Complete Financial Analyst Pro Course 2022",
+    "img": "https://themezhub.net/learnup-demo-2/learnup/assets/img/course-4.jpg",
+    "duration_h": "8",
+    "duration_m": "15",
+    "view": "300043",
+    "prev_Price": "90.00",
+    "price": "56.78",
+    "tutor": "Web Designer in Canada",
+    "tutor_name": "Shaurya Preet",
+    "tutor_avatar": "https://themezhub.net/learnup-demo-2/learnup/assets/img/user-3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "PMP Main Exam Prep Seminar 2022 - PMBOK Guide 6",
+    "img": "https://themezhub.net/learnup-demo-2/learnup/assets/img/course-5.jpg",
+    "duration_h": "5",
+    "duration_m": "15",
+    "view": "3043",
+    "prev_Price": "110.00",
+    "price": "70.06",
+    "tutor": "Financial",
+    "tutor_name": "Litha Maildick",
+    "tutor_avatar": "https://themezhub.net/learnup-demo-2/learnup/assets/img/user-5.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Php and laravel for beginers and advanced developers",
+    "img": "https://themezhub.net/learnup-demo-2/learnup/assets/img/course-1.jpg",
+    "duration_h": "2",
+    "duration_m": "15",
+    "view": "304377",
+    "prev_Price": "50.00",
+    "price": "16.78",
+    "tutor": "PMBOK Guide",
+    "tutor_name": "Chrish Gyle",
+    "tutor_avatar": "https://themezhub.net/learnup-demo-2/learnup/assets/img/user-1.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Mern Stack course!  for beginers and advanced developers",
+    "img": "https://themezhub.net/learnup-demo-2/learnup/assets/img/course-6.jpg",
+    "duration_h": "4",
+    "duration_m": "50",
+    "view": "3043977",
+    "prev_Price": "70.00",
+    "price": "35.00",
+    "tutor": "A-Z:Hands-On Tableau",
+    "tutor_name": "Shilpa Shekh",
+    "tutor_avatar": "https://themezhub.net/learnup-demo-2/learnup/assets/img/user-6.jpg"
+  }
+]
